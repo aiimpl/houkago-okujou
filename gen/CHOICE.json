@@ -1,0 +1,28 @@
+{
+ "_メモ": "カットごとに選んだシード。理由は ../conte/CONTE.md の「選んだシード」",
+ "c1_open": {
+  "file": "gen/out/c1_open_s128_00001_.mp4"
+ },
+ "c3_sky": {
+  "file": "gen/out/c3_sky_s7_00001_.mp4"
+ },
+ "c5_dance": {
+  "file": "gen/out/c5_dance_s128_00001_.mp4"
+ },
+ "c4b_swing": {
+  "file": "gen/out/c4b_swing_s128_00001_.mp4"
+ },
+ "c6_punch": {
+  "file": "gen/out/c6_punch_s128_00001_.mp4"
+ },
+ "_song": {
+  "file": "gen/out/song_vocal_s31_00001.flac",
+  "start": 0.04
+ },
+ "c2b_chime": {
+  "file": "gen/out/c2b_chime_s7_00001_.mp4"
+ },
+ "c8o_wink": {
+  "file": "gen/out/c8o_wink_s128_00001_.mp4"
+ }
+}

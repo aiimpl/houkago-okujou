@@ -1,0 +1,16 @@
+# 作り直せるもの
+cache/
+out/
+__pycache__/
+.venv/
+# 素材（リポジトリには入れない。assets/README.md を参照）
+assets/*
+!assets/README.md
+# 生成したクリップ・入力・ワークフロー（gen/README.md の手順で作る）と、署名付き URL（期限つき・共有しない）
+gen/out
+gen/in
+gen/wf
+gen/wf2
+gen/wf3
+gen/direct.json
+.DS_Store
